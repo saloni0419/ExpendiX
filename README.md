@@ -5,7 +5,7 @@ It provides a convenient way to manage your financial transactions and gain insi
 
 ## Features
 
-**Expense Tracking:** Users can easily add, edit, and delete their expenses and income transactions. They can add details .
+**Expense Tracking:** Users can easily add, edit, and delete their expenses and income transactions. They can add details.
 
 **History:** ExpendiX maintains a history of all the transactions entered by the user. This allows users to view their transaction history and track their financial activities over time.
 
